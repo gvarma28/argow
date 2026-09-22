@@ -1,6 +1,6 @@
 # argow
 
-A small CLI that bulk-runs ArgoCD operations (sync, restart) across all applications in one or more ArgoCD projects, using the `argocd` CLI under the hood.
+A CLI that bulk-runs ArgoCD operations (sync, restart) across all applications in one or more ArgoCD projects, using the `argocd` CLI under the hood.
 
 ## What it does
 
